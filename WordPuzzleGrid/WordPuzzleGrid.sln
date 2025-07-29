@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordPuzzleGrid", "WordPuzzleGrid\WordPuzzleGrid.csproj", "{0EE05B84-DF39-4EE0-8A3A-0F92C49277EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordPuzzleGrid.Test", "WordPuzzleGrid.Test\WordPuzzleGrid.Test.csproj", "{5E5DA366-E26F-4746-9CD8-CCFCBB7B3A61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EE05B84-DF39-4EE0-8A3A-0F92C49277EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EE05B84-DF39-4EE0-8A3A-0F92C49277EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EE05B84-DF39-4EE0-8A3A-0F92C49277EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EE05B84-DF39-4EE0-8A3A-0F92C49277EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E5DA366-E26F-4746-9CD8-CCFCBB7B3A61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E5DA366-E26F-4746-9CD8-CCFCBB7B3A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E5DA366-E26F-4746-9CD8-CCFCBB7B3A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E5DA366-E26F-4746-9CD8-CCFCBB7B3A61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9B53029-F8CB-4236-9A62-18AB8EA0A846}
+	EndGlobalSection
+EndGlobal
