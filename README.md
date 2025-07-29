@@ -4,17 +4,17 @@ The word can be constructed from letters of sequentially adjacent cells (horizon
 
  
 
-  ## Sample Input:
+   Sample Input:
 
     char[][] board = {
     ['A','B','C','E'],
     ['S','F','C','S'],
     ['A','D','E','E']
     };
-    string word = "ABCCED";
+    string word = "ABCCED";
 
  
 
-  ## Sample Output:
+   Sample Output:
 
     true
